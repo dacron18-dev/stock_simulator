@@ -1,1 +1,1 @@
-# stock_simulator
+# paper-trading.

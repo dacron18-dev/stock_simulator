@@ -1,0 +1,19 @@
+
+# Env files - never share or commit live keys
+.env
+.env.local
+env
+.env.*
+!.env.example
+
+# Competition secrets - answer key + raw data dumps
+mapping.json
+mapping.example.json
+digest.txt
+data.json
+competition-data.json
+
+# Deps / OS / build
+node_modules/
+.vercel/
+
